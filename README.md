@@ -10,7 +10,7 @@ java 1.7.0_91
 Key Points    
 
 ouput available at : /tmp/goeuro/query/parser/output.txt (configurable via properties file)   
-
+comand to compile : mvn clean install 
 
 Interface defined .   
 Impl is custom with source=REST API and sink= File Path     
